@@ -1,22 +1,17 @@
-import './App.css'
-import GenreList from './components/GenreList'
-import MenuBar from './components/MenuBar'
 import NewTrackList from './components/NewTrackList'
 import SearchBar from './components/SearchBar'
-import TopGenreMusic from './components/TopGenreMusic'
+import OrderSelector from './components/OrderSelector'
 
 function App() {
 
   return (
-    <>
-      <div>
+    <div className='m-4'>
+      <div className="flex justify-between">
         <SearchBar />
-        <MenuBar />
+        <OrderSelector />
       </div>
       <NewTrackList />
-      <GenreList />
-      <TopGenreMusic />
-    </>
+    </div>
   )
 }
 

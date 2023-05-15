@@ -1,0 +1,672 @@
+{
+    "query": "love",
+    "tracks": {
+      "totalCount": 332,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+            "id": "6dBUzqjtbnIa1TwYbyw5CM",
+            "name": "Lovers Rock",
+            "albumOfTrack": {
+              "uri": "spotify:album:4Hai0uVzRbyTSaTPzxTY4e",
+              "name": "French Exit",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e1bc1af856b42dd7fdba9f84",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851e1bc1af856b42dd7fdba9f84",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4Hai0uVzRbyTSaTPzxTY4e",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e?si=pAsYYafQSYOMlR2DzPJNQw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+                  "profile": {
+                    "name": "TV Girl"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 213920
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:01Lr5YepbgjXAWR9iOEyH1",
+            "id": "01Lr5YepbgjXAWR9iOEyH1",
+            "name": "Love Sosa",
+            "albumOfTrack": {
+              "uri": "spotify:album:2B4y3j02ho6XNF8BEzx3JF",
+              "name": "Finally Rich",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a76616abf60ce17491e95891",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851a76616abf60ce17491e95891",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2B4y3j02ho6XNF8BEzx3JF",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF?si=CQuAPXgfQzemJHDNTN5W4w"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P",
+                  "profile": {
+                    "name": "Chief Keef"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 246213
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6PGoSes0D9eUDeeAafB2As",
+            "id": "6PGoSes0D9eUDeeAafB2As",
+            "name": "LOVE. FEAT. ZACARI.",
+            "albumOfTrack": {
+              "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY",
+              "name": "DAMN.",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4eLPsYPBmXABThSJ821sqY",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=_FhTi4NMRpugcN35ucw7-w"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+                  "profile": {
+                    "name": "Kendrick Lamar"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI",
+                  "profile": {
+                    "name": "Zacari"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 213400
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0W4NhJhcqKCqEP2GIpDCDq",
+            "id": "0W4NhJhcqKCqEP2GIpDCDq",
+            "name": "Love",
+            "albumOfTrack": {
+              "uri": "spotify:album:4zEAsP0RIfbGARdtsgAaUV",
+              "name": "The Way It Is",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022cc2323c681b3f84cdc8379a",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048512cc2323c681b3f84cdc8379a",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732cc2323c681b3f84cdc8379a",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4zEAsP0RIfbGARdtsgAaUV",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV?si=EpdFdBsiQuuVBg6A7gEAng"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1vfezMIyCr4XUdYRaKIKi3",
+                  "profile": {
+                    "name": "Keyshia Cole"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 255333
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI",
+            "id": "1dGr1c8CrMLDpV6mPbImSI",
+            "name": "Lover",
+            "albumOfTrack": {
+              "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq",
+              "name": "Lover",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "1NAmidJlEaVgA3MpcPFYGq",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq?si=NrDzr6A0SDCQfDlluRFavg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+                  "profile": {
+                    "name": "Taylor Swift"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 221306
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1vrd6UOGamcKNGnSHJQlSt",
+            "id": "1vrd6UOGamcKNGnSHJQlSt",
+            "name": "Love Story",
+            "albumOfTrack": {
+              "uri": "spotify:album:2dqn5yOQWdyGwOpOIi9O4x",
+              "name": "Fearless",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e027b25c072237f29ee50025fdc",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048517b25c072237f29ee50025fdc",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2dqn5yOQWdyGwOpOIi9O4x",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x?si=E2jk29wuTZy3nLaEr1T_vQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+                  "profile": {
+                    "name": "Taylor Swift"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 235266
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:2XHzzp1j4IfTNp1FTn7YFg",
+            "id": "2XHzzp1j4IfTNp1FTn7YFg",
+            "name": "Love Me",
+            "albumOfTrack": {
+              "uri": "spotify:album:6Pqlfg42Sc3ElNuyt5NUiK",
+              "name": "I Am Not A Human Being II (Deluxe)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0280c64a084164867806ea617a",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485180c64a084164867806ea617a",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6Pqlfg42Sc3ElNuyt5NUiK",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK?si=wIsNMimFTLeTnYux8ADdtw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865",
+                  "profile": {
+                    "name": "Lil Wayne"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+                  "profile": {
+                    "name": "Drake"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
+                  "profile": {
+                    "name": "Future"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 255053
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0u2P5u6lvoDfwTYjAADbn4",
+            "id": "0u2P5u6lvoDfwTYjAADbn4",
+            "name": "lovely (with Khalid)",
+            "albumOfTrack": {
+              "uri": "spotify:album:2sBB17RXTamvj7Ncps15AK",
+              "name": "lovely (with Khalid)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028a3f0a3ca7929dea23cd274c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048518a3f0a3ca7929dea23cd274c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2sBB17RXTamvj7Ncps15AK",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK?si=QDm2et3iS9GK6gJvcW5wQA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+                  "profile": {
+                    "name": "Billie Eilish"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
+                  "profile": {
+                    "name": "Khalid"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 200185
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3qXsX3mYSsD1DmAvc3PE3N",
+            "id": "3qXsX3mYSsD1DmAvc3PE3N",
+            "name": "Love You Anyway",
+            "albumOfTrack": {
+              "uri": "spotify:album:4ettM87GR2TdBLDTTBdfeF",
+              "name": "Love You Anyway",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021f2d0916f905ff1aa6264459",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048511f2d0916f905ff1aa6264459",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731f2d0916f905ff1aa6264459",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4ettM87GR2TdBLDTTBdfeF",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF?si=pRq8Ym6eS3uap48krzGy5A"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS",
+                  "profile": {
+                    "name": "Luke Combs"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 229626
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+            "id": "5oO3drDxtziYU2H1X23ZIp",
+            "name": "Love On The Brain",
+            "albumOfTrack": {
+              "uri": "spotify:album:4UlGauD7ROb3YbVOFMgW5u",
+              "name": "ANTI (Deluxe)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0233c6b920eabcf4c00d7a1093",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485133c6b920eabcf4c00d7a1093",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4UlGauD7ROb3YbVOFMgW5u",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u?si=oKiVle3YQlWSHSEqOvf3rQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
+                  "profile": {
+                    "name": "Rihanna"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 224000
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:7umZiitjVsEjMQ6HNddpUI",
+            "id": "7umZiitjVsEjMQ6HNddpUI",
+            "name": "Love Is Only a Feeling",
+            "albumOfTrack": {
+              "uri": "spotify:album:5e82uQW57EpmAOCJvLKMpr",
+              "name": "Love Is Only a Feeling",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b142bbe4a766121f8d6fad41",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851b142bbe4a766121f8d6fad41",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b142bbe4a766121f8d6fad41",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "5e82uQW57EpmAOCJvLKMpr",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/5e82uQW57EpmAOCJvLKMpr?si=vWCIovTFTKS0OAK5rdhs_w"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH",
+                  "profile": {
+                    "name": "Joey Bada$$"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 152041
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:2e3Ea0o24lReQFR4FA7yXH",
+            "id": "2e3Ea0o24lReQFR4FA7yXH",
+            "name": "Love Yourz",
+            "albumOfTrack": {
+              "uri": "spotify:album:0UMMIkurRUmkruZ3KGBLtG",
+              "name": "2014 Forest Hills Drive",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c6e0948bbb0681ff29cdbae8",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851c6e0948bbb0681ff29cdbae8",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "0UMMIkurRUmkruZ3KGBLtG",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG?si=krFyFcNiRwWGfYnii5tYgw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5",
+                  "profile": {
+                    "name": "J. Cole"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 211496
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        }
+      ],
+      "pagingInfo": {
+        "nextOffset": 12,
+        "limit": 12
+      }
+    }
+}
