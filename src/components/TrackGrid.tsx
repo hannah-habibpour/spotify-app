@@ -1,11 +1,23 @@
 import { Card, CardBody, Heading, Image, SimpleGrid, Text } from '@chakra-ui/react'
-import searchResult from '../data/searchResult.json'
+import { SearchResult } from '../App'
 
-function TrackGrid() {
-  console.log(searchResult)
+interface Props {
+  data: SearchResult
+  filterTrack: string
+}
+function TrackGrid({ data, filterTrack }: Props) {
+  const filteredTracks = data.tracks.items.filter((track) => {
+    if (filterTrack === 'NONE') {
+      return track.data.contentRating.label === 'NONE';
+    } else if (filterTrack === 'EXPLICIT') {
+      return track.data.contentRating.label === 'EXPLICIT';
+    }
+    return true; 
+  });
+  
   return (
     <SimpleGrid columns={{ sm: 1, md: 2, lg: 3, xl: 4 }} padding="10px" spacing={6}>
-      {searchResult.tracks.items.map((track) => (
+      {filteredTracks.map((track) => (
         <Card key={track.data.id} backgroundColor='gray.200' rounded={10}>
           <CardBody rounded={10}  boxShadow='2xl'>
             <Image src={track.data.albumOfTrack.coverArt.sources[0].url}></Image>
